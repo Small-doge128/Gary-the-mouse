@@ -1,2 +1,2 @@
-# custom-mouse
-A custom mouse with TTC wheel encoder (8mm), lipo battery, 4x kailh gm 8.0 micro switch, PAW3395 LM19 and seeed studio nrf52840
+#about
+A custom mouse that's small and lightweight like a cookie a little inspiration is from the zero mouse. It's my second using kicad, but it still took a lot of time.
