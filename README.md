@@ -15,5 +15,6 @@ the whole body longer one -
 My mouse is not that bad, but my felt that it was heavy and actually when I take the top cover off It's more comfortable. I did weanted to spice it up with my preferences, so It's more like my mouse then a customer mouse and I know I had the skills to make that, but still I've learnt a lot.
 
 # pictures
+<img width="1190" height="892" alt="2026-06-29-114429_hyprshot" src="https://github.com/user-attachments/assets/bad13071-d826-48b7-a326-c4402e462cb4" />
 
 
