@@ -1,0 +1,12 @@
+Name,Purpose,Qty,Unit Price (USD),Total (USD),Distributor,Link
+TTC Mouse Encoder (Silver Core, 8mm),Scroll wheel scroll detection,1,1.58,1.58,AliExpress,https://www.aliexpress.com/item/1005006514957582.html
+Seeed Studio XIAO BLE nRF52840,Main microcontroller and wireless chip for the mouse,1,13.03,13.03,AliExpress,https://www.aliexpress.com/item/1005006988954136.html
+3.7V 400mAh LiPo Battery,Wireless power source for the mouse,1,4.88,4.88,AliExpress,https://www.aliexpress.com/w/wholesale-3.7v-400mah-lipo-battery.html
+Kailh GM 8.0 Micro Switch (2pcs),Main left and right click switches,1,1.47,1.47,AliExpress,https://www.aliexpress.com/item/1005007883133457.html
+Kailh GM 8.0 Micro Switch (3pcs),Side buttons or extra switches,1,1.94,1.94,AliExpress,https://www.aliexpress.com/item/1005007883133457.html
+PixArt PAW3395 Sensor + LM19-LSI Lens Kit,High-performance optical tracking sensor and matching lens,1,11.97,11.97,AliExpress,https://www.aliexpress.com/item/1005006293449301.html
+Custom Main Mouse PCB (gerber drill files_Y7),Main board hosting the MCU and switches (White Solder Mask),5,0.80,4.00,JLCPCB,https://jlcpcb.com
+Custom Sensor breakout PCB (gerbers_Y6),Breakout board for the PAW3395 sensor (White Solder Mask),5,0.42,2.10,JLCPCB,https://jlcpcb.com
+AliExpress Shipping & Discounts,Combined shipping fees minus seller item discounts,,,,1.94,,
+TOTAL (Base Merchandise),,,,,,40.97,,
+GRAND TOTAL (All Items + All Shipping + VAT),,,,,,61.70,,
