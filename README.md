@@ -19,6 +19,7 @@ My mouse is not that bad, but my felt that it was heavy and actually when I take
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-06-11 at 17 54 53" src="https://github.com/user-attachments/assets/570fba60-585d-4b8a-8eba-5a8607e8dd8f" />
 
+<img width="498" height="372" alt="image" src="https://github.com/user-attachments/assets/73e5827a-2f8a-48c1-bdc5-27292c2dc8f5" />
 
 
 <img width="1070" height="725" alt="2026-06-29-114401_hyprshot" src="https://github.com/user-attachments/assets/5ea6d65a-4c13-4b82-800b-b2585e568815" />
