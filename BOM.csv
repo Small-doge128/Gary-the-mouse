@@ -7,6 +7,15 @@ Kailh GM 8.0 Micro Switch (3pcs),Side buttons and a extra switch,1,1.94,AliExpre
 PixArt PAW3395 Sensor + LM19-LSI Lens Kit,High-performance optical tracking sensor and matching lens,1,11.97,AliExpress,https://www.aliexpress.com/item/1005006293449301.html
 Custom Main Mouse PCB (gerber drill files_Y7),Main board hosting the MCU and switches (White Solder Mask),5,4.0,JLCPCB,https://jlcpcb.com
 Custom Sensor breakout PCB (gerbers_Y6),Breakout board for the PAW3395 sensor (White Solder Mask),5,2.1,JLCPCB,https://jlcpcb.com
-Combined Shipping Fees,AliExpress ($19.23) & JLCPCB ($1.50) shipping,,20.73,,
-TOTAL (Base Merchandise),,,45.97,,
-GRAND TOTAL (All Items + All Shipping + VAT),,,66.7,,
+C96446 (10uF ±20% 25V Ceramic Capacitor),Decoupling/Filter Capacitor,20,1.29,LCSC,https://www.lcsc.com
+C30197477 (TLV74318PDBVR-MS Linear Voltage Regulator IC),1.8V Voltage Regulator for Sensor Power Rail,5,0.46,LCSC,https://www.lcsc.com
+C86295 (22uF ±20% 10V Ceramic Capacitor),Decoupling/Filter Capacitor,10,0.78,LCSC,https://www.lcsc.com
+C4241878 (MCT0603MD2004BP500 2MΩ Thin Film Resistor),Pull-up/Pull-down Resistor,5,0.43,LCSC,https://www.lcsc.com
+C313771 (CRCW06034R70FKEAHP 4.7Ω Thick Film Resistor),Current Limiting / Filter Resistor,5,0.52,LCSC,https://www.lcsc.com
+C51412 (CL10A335KP8NNNC 3.3uF ±10% 10V Ceramic Capacitor),Decoupling/Filter Capacitor,10,0.31,LCSC,https://www.lcsc.com
+C161117 (GCJ188R72A104KA01D 100nF ±10% 100V Ceramic Capacitor),Decoupling/Filter Capacitor,20,0.87,LCSC,https://www.lcsc.com
+C92759 (EMK107B7105KA-T 1uF ±10% 16V Ceramic Capacitor X7R),Decoupling/Filter Capacitor,20,0.65,LCSC,https://www.lcsc.com
+C394535 (PTFR0603B10K0N9 10kΩ 100V Thin Film Resistor),Pull-up/Pull-down Resistor,5,0.77,LCSC,https://www.lcsc.com
+Combined Shipping Fees,"AliExpress ($19.23), JLCPCB ($1.50), LCSC Shipping ($9.65), LCSC Handling ($3)",,33.38,,
+TOTAL (Base Merchandise),,,52.05,,
+GRAND TOTAL (All Items + All Shipping + VAT),,,85.43,,
