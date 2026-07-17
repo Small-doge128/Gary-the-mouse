@@ -8,8 +8,6 @@ A powerful microcontroller with bluetooth and usb-c for charging the lipo batter
 
 # dimensions
 pcb - 49.5 mm and 50 mm
-the whole body longer one - 
-              shorter one - 
 
 # why did i create it
 My mouse is not that bad, but my felt that it was heavy and actually when I take the top cover off It's more comfortable. I did weanted to spice it up with my preferences, so It's more like my mouse then a customer mouse and I know I had the skills to make that, but still I've learnt a lot.
