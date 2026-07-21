@@ -5,10 +5,11 @@ A custom mouse that's small and lightweight like a cookie, a little inspiration 
 A powerful microcontroller with bluetooth and usb-c for charging the lipo battery, nice scroll wheel encoder, optical sensor with up to 12 000 dpi which is low power and sometimes used for gaming and four small micro switches, two for main and other two for the side buttons, you can map them however you want. Last but really good is a build in LED in the microcontroller that is the normal red, yellow and green
 
 # step by step tutorial for firmware
-1 - download the file called firmware.hex                                                                                                                                            
+1 - download the file called firmware.uF2   
 2 - connect your seeed studio via usb-c                                                                                                                                               
 3 - put it into bootloader mode (double tap the **RESET** button the build in led shall start pulsing).                                                                                 
-4 - open in your browser -> [adafruit bootloader](https://adafruit.github.io/Adafruit_WebSerial_nRFf52_Flasher/)                                                                     
+4 - now open your file manager and you should see a new USB drive called `XIAO-BLE`     
+5 - drag and drop the file we installed earlier into it and the USB drive should dissaper which means **good** now it shloud work **enjoy**
 
 # dimensions
 pcb - 49.5 mm and 50 mm
